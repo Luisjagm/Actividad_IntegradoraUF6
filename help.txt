@@ -1,0 +1,9 @@
+[theme]
+base="dark"
+primaryColor="#FF4B4B"
+secondaryBackgroundColor="#0E1117"
+textColor="#FAFAFA"
+backgroundColor="#0E1117"
+
+Inicializar en Terminal:
+streamlit run my_app.py --theme.base "dark" --theme.primaryColor "#FF4B4B" --theme.secondaryBackgroundColor "#0E1117" --theme.textColor "#FAFAFA" --theme.backgroundColor "#0E1117"
